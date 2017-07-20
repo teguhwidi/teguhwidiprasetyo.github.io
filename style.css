@@ -1,0 +1,84 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+				display: block;}
+			body {
+				color: #666666;
+				background-color: #f9f8f6;
+				background-image: url("data:image/jpeg;base64,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");
+				background-position: center;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			.wrapper {
+				width: 641px;
+				margin: 20px auto 20px auto;
+				border: 2px solid #000000;
+				background-color: #ffffff;}
+			header {
+				height: 160px ;
+              width: 641px;
+				background-image: url(http://itm-asppi.com/file/2017/02/07/4_1.jpg);}
+			h1 {
+				text-indent: -9999px;
+				width: 940px;
+				height: 130px;
+				margin: 0px;}
+			nav, footer {
+				clear: both;
+				color: #ffffff;
+				background-color: #aeaca8;
+				height: 30px;}
+			nav ul {
+				margin: 0px;
+				padding: 5px 0px 5px 30px;}
+			nav li {
+				display: inline;
+				margin-right: 40px;}
+			nav li a {
+				color: #ffffff;}
+			nav li a:hover, nav li a.current {
+				color: #000000;}
+			section.courses {
+				float: left;
+				width: 640px;
+				border-right: 1px solid #eeeeee;}
+			article {
+				clear: both;
+				overflow: auto;
+				width: 100%;}
+			hgroup {
+				margin-top: 50px;}
+			figure {
+				float: left;
+				width: 270px;
+				height: 180px;
+				padding: 5px;
+				margin: 20px;
+				border: 1px solid #eeeeee;}
+			figcaption {
+				font-size: 90%;
+				text-align: left;}
+			aside {
+				width: 230px;
+				float: ;
+				padding: 1px 0px 0px 20px;}
+			aside section a {
+				display: block;
+				padding: 10px;
+				border-bottom: 1px solid #eeeeee;}
+			aside section a:hover {
+				color: #985d6a;
+				background-color: #efefef;}
+			a {
+				color: #de6581;
+				text-decoration: none;}
+			
+			h2 {
+				margin: 10px 0px 5px 0px;
+				padding: 0px;}
+			
+			aside h2 {
+				padding: 30px 0px 10px 0px;
+				color: #de6581;}
+			footer {
+				font-size: 80%;
+				padding: 7px 0px 0px 20px;}
